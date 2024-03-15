@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "CoE-DX",
+      "titles": [ "Adobe Experience Manager", "Adobe Experience Platform", "Adobe Journey Optimizer", "Adobe Customer Journey Analytics" , "Adobe Target" ],
       "social": [
         {
           "name": "github",
@@ -14,52 +14,52 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "logo.png"
     },
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
+          "name": "AEM",
           "class": "devicon-html5-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
+          "name": "AEP",
           "class": "devicon-css3-plain",
           "level": "95"
         },
         {
-          "name": "Angular",
+          "name": "AJO",
           "class": "devicon-angularjs-plain",
           "level": "80"
         },
         {
-          "name": "TypeScript",
+          "name": "CJA",
           "class": "devicon-typescript-plain",
           "level": "90"
         },
         {
-          "name": "JavaScript",
+          "name": "Target",
           "class": "devicon-javascript-plain",
           "level": "70"
         },
         {
-          "name": "Sass",
+          "name": "AMM",
           "class": "devicon-sass-original",
           "level": "75"
         },
         {
-          "name": "Bootstrap",
+          "name": "AWS",
           "class": "devicon-bootstrap-plain",
           "level": "85"
         },
         {
-          "name": "C#",
+          "name": "Azure",
           "class": "devicon-csharp-plain",
           "level": "65"
         },
         {
-          "name": "MySql",
+          "name": "GCP",
           "class": "devicon-mysql-plain",
           "level": "60"
         }
