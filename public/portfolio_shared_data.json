@@ -19,12 +19,12 @@
     "skills": {
       "icons": [
         {
-          "name": "AEM",
-          "class": "devicon-html5-plain",
-          "level": "95"
+          "src": "favicon.ico",
+          "sizes": "64x64 32x32 24x24 16x16",
+          "type": "image/x-icon"
         },
         {
-          "name": "AEP",
+          "name": "AEM",
           "class": "devicon-css3-plain",
           "level": "95"
         },
@@ -50,17 +50,17 @@
         },
         {
           "name": "AWS",
-          "class": "devicon-bootstrap-plain",
+          "class": "devicon-amazonwebservices-plain",
           "level": "85"
         },
         {
           "name": "Azure",
-          "class": "devicon-csharp-plain",
+          "class": "devicon-azure-plain",
           "level": "65"
         },
         {
           "name": "GCP",
-          "class": "devicon-mysql-plain",
+          "class": "devicon-googlecloud-plain",
           "level": "60"
         }
       ]
