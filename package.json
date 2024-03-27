@@ -1,6 +1,6 @@
 {
-  "name": "coeDX_frontend",
-  "homepage": "https://cherry73.github.io/coeDX_frontend/",
+  "name": "coedx.com",
+  "homepage": "https://cherry73.github.io/coe-DX//",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +8,8 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.5.2",
+    "eslint-webpack-plugin": "^4.1.0",
+    "joi": "^17.12.2",
     "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-awesome-slider": "^4.1.0",
