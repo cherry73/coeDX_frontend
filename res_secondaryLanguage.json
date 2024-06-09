@@ -1,0 +1,100 @@
+{
+    "basic_info": {
+      "description_header": "",
+      "description": "👋 Danke💜",
+      "section_name": {
+        "about": "",
+        "projects": "",
+        "skills": "",
+        "experience": ""
+      }
+    },
+    "projects": [
+      {
+        "title": "Animal Shelter",
+        "startDate": "2020",
+        "description": "",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "AEM"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "AEP"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "AJO"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "AJO"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "CJA"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "AEM"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "AEP"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "CJA"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "smart Europe",
+        "title": "Customer Experience",
+        "years": "10.2021 - heute",
+        "mainTech": [
+          "Digital Marketing"
+        ],
+        "technologies": [
+          "AEM",
+          "AEP",
+          "AJO",
+          "CJA",
+          "Target",
+          "AMM"
+        ]
+      }
+    ]
+  }

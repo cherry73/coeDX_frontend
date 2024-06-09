@@ -1,0 +1,80 @@
+{
+    "basic_info": {
+      "name": "CoE-DX",
+      "titles": [ "Adobe Experience Manager", "Adobe Experience Platform", "Adobe Journey Optimizer", "Adobe Customer Journey Analytics" , "Adobe Target" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "logo.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name" : "AEP",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#CircleExperiencePlatform",
+          "level": "100"
+        },
+        {
+          "name": "AEM",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#ExperienceManager",
+          "level": "95"
+        },
+        {
+          "name": "AJO",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#CircleJourneyOptimizer",
+          "level": "80"
+        },
+        {
+          "name": "CJA",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#UserAnalytics",
+           "level": "90"
+        },
+        {
+          "name": "Target",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#ContentProfile",
+          "level": "70"
+        },
+        {
+          "name": "AMM",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#CircleExperienceCloud",
+          "level": "75"
+        },
+        {
+          "name": "Fusion",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#Fusion",
+          "level": "75"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain",
+          "level": "85"
+        },
+        {
+          "name": "Azure",
+          "class": "devicon-azure-plain",
+          "level": "65"
+        },
+        {
+          "name": "GCP",
+          "class": "devicon-googlecloud-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
