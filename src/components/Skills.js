@@ -5,7 +5,7 @@ class Skills extends Component {
     if (this.props.sharedSkills && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.skills;
       var skills = this.props.sharedSkills.icons.map(function (skills, i) {
-        return (
+       if (skills.image==null) { return (
           <li className="list-inline-item mx-3" key={i}>
             <span>
               <div className="text-center skills-tile">
@@ -21,7 +21,26 @@ class Skills extends Component {
             </span>
           </li>
         );
-      });
+      }
+      else{
+        return ( <li className="list-inline-item mx-3" key={i}>
+            <span>
+              <div className="text-center skills-tile">
+               <i className={skills.class}> 
+                <img src={skills.image} height="42px" width="42px"></img>
+                  <p
+                    className="text-center"
+                    style={{ fontSize: "60%", marginTop: "4px" }}
+                  >
+                    {skills.name}
+                  </p>
+                </i>
+              </div>
+            </span>
+          </li>
+        );
+      }
+    });
     }
 
     return (

@@ -19,33 +19,45 @@
     "skills": {
       "icons": [
         {
-          "src": "favicon.ico",
-          "sizes": "64x64 32x32 24x24 16x16",
-          "type": "image/x-icon"
+          "name" : "AEP",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#CircleExperiencePlatform",
+          "level": "100"
         },
         {
           "name": "AEM",
-          "class": "devicon-css3-plain",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#ExperienceManager",
           "level": "95"
         },
         {
           "name": "AJO",
-          "class": "devicon-angularjs-plain",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#CircleJourneyOptimizer",
           "level": "80"
         },
         {
           "name": "CJA",
-          "class": "devicon-typescript-plain",
-          "level": "90"
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#UserAnalytics",
+           "level": "90"
         },
         {
           "name": "Target",
-          "class": "devicon-javascript-plain",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#ContentProfile",
           "level": "70"
         },
         {
           "name": "AMM",
-          "class": "devicon-sass-original",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#CircleExperienceCloud",
+          "level": "75"
+        },
+        {
+          "name": "Fusion",
+          "class" : "quick-access-solution-icon",
+          "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#Fusion",
           "level": "75"
         },
         {
