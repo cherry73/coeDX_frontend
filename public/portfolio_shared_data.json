@@ -22,68 +22,80 @@
           "name" : "AEP",
           "class" : "quick-access-solution-icon",
           "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#CircleExperiencePlatform",
-          "level": "100"
+          "level": "100",
+          "isPrimary" : true
         },
         {
           "name": "AEM",
           "class" : "quick-access-solution-icon",
           "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#ExperienceManager",
-          "level": "95"
+          "level": "95",
+          "isPrimary" : true
         },
         {
           "name": "AJO",
           "class" : "quick-access-solution-icon",
           "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#CircleJourneyOptimizer",
-          "level": "90"
+          "level": "90",
+          "isPrimary" : true
         },
         {
           "name": "CJA",
           "class" : "quick-access-solution-icon",
           "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#UserAnalytics",
-           "level": "85"
+           "level": "85",
+           "isPrimary" : true
         },
         {
           "name": "Target",
           "class" : "quick-access-solution-icon",
           "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#ContentProfile",
-          "level": "80"
+          "level": "80",
+          "isPrimary" : true
         },
         {
           "name": "AMM",
           "class" : "quick-access-solution-icon",
           "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#CircleExperienceCloud",
-          "level": "75"
+          "level": "75",
+          "isPrimary" : true
         },
         {
           "name": "Fusion",
           "class" : "quick-access-solution-icon",
           "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#Fusion",
-          "level": "70"
+          "level": "70",
+          "isPrimary" : true
         },
         {
-          "name": "SAP",
-          "class": "devicon-sap-plain",
-          "level": "65"
+          "name": "DWH",
+          "class": "devicon-azuresqldatabase-plain",
+          "level": "65",
+          "isPrimary" : false
         },
         {
           "name": "CRM",
           "class": "devicon-salesforce-plain",
-          "level": "60"
+          "level": "60",
+          "isPrimary" : false
         },
         {
           "name": "AWS",
           "class": "devicon-amazonwebservices-plain",
-          "level": "55"
+          "level": "55",
+          "isPrimary" : false
         },
         {
           "name": "Azure",
           "class": "devicon-azure-plain",
-          "level": "50"
+          "level": "50",
+          "isPrimary" : false
         },
         {
           "name": "GCP",
           "class": "devicon-googlecloud-plain",
-          "level": "45"
+          "level": "45",
+          "isPrimary" : false
         }
       ]
     }
