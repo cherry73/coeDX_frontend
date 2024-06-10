@@ -61,6 +61,11 @@
           "level": "75"
         },
         {
+          "name": "CRM",
+          "class": "devicon-salesforce-plain",
+          "level": "60"
+        },
+        {
           "name": "AWS",
           "class": "devicon-amazonwebservices-plain",
           "level": "85"
