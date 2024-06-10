@@ -34,19 +34,19 @@
           "name": "AJO",
           "class" : "quick-access-solution-icon",
           "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#CircleJourneyOptimizer",
-          "level": "80"
+          "level": "90"
         },
         {
           "name": "CJA",
           "class" : "quick-access-solution-icon",
           "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#UserAnalytics",
-           "level": "90"
+           "level": "85"
         },
         {
           "name": "Target",
           "class" : "quick-access-solution-icon",
           "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#ContentProfile",
-          "level": "70"
+          "level": "80"
         },
         {
           "name": "AMM",
@@ -58,7 +58,12 @@
           "name": "Fusion",
           "class" : "quick-access-solution-icon",
           "image" : "https://cdn.experience.adobe.net/assets/BrandIcons.82ac0f69.svg#Fusion",
-          "level": "75"
+          "level": "70"
+        },
+        {
+          "name": "SAP",
+          "class": "devicon-sap-plain",
+          "level": "65"
         },
         {
           "name": "CRM",
@@ -68,17 +73,17 @@
         {
           "name": "AWS",
           "class": "devicon-amazonwebservices-plain",
-          "level": "85"
+          "level": "55"
         },
         {
           "name": "Azure",
           "class": "devicon-azure-plain",
-          "level": "65"
+          "level": "50"
         },
         {
           "name": "GCP",
           "class": "devicon-googlecloud-plain",
-          "level": "60"
+          "level": "45"
         }
       ]
     }
