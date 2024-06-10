@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "CoE-DX",
-      "titles": [ "Adobe Experience Manager", "Adobe Experience Platform", "Adobe Journey Optimizer", "Adobe Customer Journey Analytics" , "Adobe Target" ],
+      "titles": [  "Adobe Experience Platform", "Adobe Journey Optimizer","Adobe Experience Manager", "Customer Journey Analytics" , "Adobe Target" ,"Adobe Mix Modeler", "Cloud Data Architecture", "Data Engineering"],
       "social": [
         {
           "name": "github",
